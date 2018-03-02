@@ -1,0 +1,663 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 28 Feb 2018 15:45:25 at https://www.liberalalliance.dk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.liberalalliance.dk/ -O1 "D:\Wesbites\liberal alliance" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:45:26	Warning: 	Note: due to https://www.liberalalliance.dk remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:46:44	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.liberalalliance.dk/)
+15:46:45	Warning: 	Note: due to www.liberalalliance.dk remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+15:46:45	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=571E30A2BDC539DD30C96F6823F9F640
+15:46:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=571E30A2BDC539DD30C96F6823F9F640 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=571E30A2BDC539DD30C96F6823F9F640
+15:46:45	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=571E30A2BDC539DD30C96F6823F9F640 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=571E30A2BDC539DD30C96F6823F9F640
+15:51:35	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/LiberalAlliance.dk (from https://www.liberalalliance.dk/)
+15:51:35	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/frihed/lafrihed.js?v=1 (from https://www.liberalalliance.dk/)
+15:51:35	Warning: 	Moved Temporarily for https://www.liberalalliance.dk/?ga_action=googleanalytics_get_script
+15:51:35	Warning: 	File has moved from https://www.liberalalliance.dk/?ga_action=googleanalytics_get_script to https://www.liberalalliance.dk
+15:51:57	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://www.liberalalliance.dk/wp-content/themes/jupiter4.4.5/js/require/app.js
+15:52:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=571E30A2BDC539DD30C96F6823F9F640
+15:52:00	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=571E30A2BDC539DD30C96F6823F9F640 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D571E30A2BDC539DD30C96F6823F9F640
+15:52:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6992
+15:52:00	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6992 to https://www.liberalalliance.dk/2025plan/
+15:52:00	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=F4FB70356674165B5C9710DBF2723BC8
+15:52:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=F4FB70356674165B5C9710DBF2723BC8 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=F4FB70356674165B5C9710DBF2723BC8
+15:52:00	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=F4FB70356674165B5C9710DBF2723BC8 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=F4FB70356674165B5C9710DBF2723BC8
+15:52:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/2025plan/jp.dk (from https://www.liberalalliance.dk/2025plan/)
+15:52:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/2025plan/borsen.dk (from https://www.liberalalliance.dk/2025plan/)
+15:53:28	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/2025plan/LiberalAlliance.dk (from https://www.liberalalliance.dk/2025plan/)
+15:53:28	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6394
+15:53:28	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6394 to https://www.liberalalliance.dk/vores-politik/
+15:53:28	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=62896FF5ABE2E330A41B0F8AE28BE4E6
+15:53:28	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=62896FF5ABE2E330A41B0F8AE28BE4E6 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=62896FF5ABE2E330A41B0F8AE28BE4E6
+15:53:28	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=62896FF5ABE2E330A41B0F8AE28BE4E6 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=62896FF5ABE2E330A41B0F8AE28BE4E6
+15:54:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/vores-politik/LiberalAlliance.dk (from https://www.liberalalliance.dk/vores-politik/)
+15:54:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8939
+15:54:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8939 to https://www.liberalalliance.dk/100grunde/
+15:54:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/100grunde/LiberalAlliance.dk (from https://www.liberalalliance.dk/100grunde/)
+15:54:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6398
+15:54:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6398 to https://www.liberalalliance.dk/visioner-vaerdier/
+15:54:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/visioner-vaerdier/LiberalAlliance.dk (from https://www.liberalalliance.dk/visioner-vaerdier/)
+15:54:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6396
+15:54:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6396 to https://www.liberalalliance.dk/udgivelser-udspil/
+15:54:52	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/wp-content/uploads/2016/07/Arbejdsprogram-1.pdf (from https://www.liberalalliance.dk/udgivelser-udspil/)
+15:54:52	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/udgivelser-udspil/LiberalAlliance.dk (from https://www.liberalalliance.dk/udgivelser-udspil/)
+15:54:52	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11884
+15:54:52	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11884 to https://www.liberalalliance.dk/ministre/
+15:54:52	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/ministre/LiberalAlliance.dk (from https://www.liberalalliance.dk/ministre/)
+15:54:52	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6400
+15:54:52	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6400 to https://www.liberalalliance.dk/folketingsmedlemmer/
+15:54:52	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=60E3AD58D92B54E306010A81245E4DE9
+15:54:52	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=60E3AD58D92B54E306010A81245E4DE9 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=60E3AD58D92B54E306010A81245E4DE9
+15:54:52	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=60E3AD58D92B54E306010A81245E4DE9 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=60E3AD58D92B54E306010A81245E4DE9
+15:54:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/la/carsten-bach/
+15:54:56	Warning: 	File has moved from https://www.liberalalliance.dk/la/carsten-bach/ to https://www.liberalalliance.dk/emne/carsten-bach/
+15:54:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/la/christina-egelund/
+15:54:56	Warning: 	File has moved from https://www.liberalalliance.dk/la/christina-egelund/ to https://www.liberalalliance.dk/emne/christina-egelund/
+15:55:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/folketingsmedlemmer/LiberalAlliance.dk (from https://www.liberalalliance.dk/folketingsmedlemmer/)
+15:55:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11059
+15:55:37	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11059 to https://www.liberalalliance.dk/regionsraadsmedlemmer-2/
+15:55:37	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=15D27BDB4FB80162493D2292B978D21A
+15:55:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=15D27BDB4FB80162493D2292B978D21A and https://www.liberalalliance.dk/?wordfence_lh=1&hid=15D27BDB4FB80162493D2292B978D21A
+15:55:37	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=15D27BDB4FB80162493D2292B978D21A to https://www.liberalalliance.dk/?wordfence_lh=1&hid=15D27BDB4FB80162493D2292B978D21A
+15:55:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/regionsraadsmedlemmer-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/regionsraadsmedlemmer-2/)
+15:55:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11069
+15:55:37	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11069 to https://www.liberalalliance.dk/byraadliberalalliance/
+15:55:37	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=865CAE117974AAFAD95FE1125B4C018F
+15:55:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=865CAE117974AAFAD95FE1125B4C018F and https://www.liberalalliance.dk/?wordfence_lh=1&hid=865CAE117974AAFAD95FE1125B4C018F
+15:55:37	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=865CAE117974AAFAD95FE1125B4C018F to https://www.liberalalliance.dk/?wordfence_lh=1&hid=865CAE117974AAFAD95FE1125B4C018F
+15:55:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/byraadliberalalliance/LiberalAlliance.dk (from https://www.liberalalliance.dk/byraadliberalalliance/)
+15:55:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6596
+15:55:37	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6596 to https://www.liberalalliance.dk/aktuelt/
+15:55:37	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=23BF469ED6F5E4F93814D5A61428463D
+15:55:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=23BF469ED6F5E4F93814D5A61428463D and https://www.liberalalliance.dk/?wordfence_lh=1&hid=23BF469ED6F5E4F93814D5A61428463D
+15:55:37	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=23BF469ED6F5E4F93814D5A61428463D to https://www.liberalalliance.dk/?wordfence_lh=1&hid=23BF469ED6F5E4F93814D5A61428463D
+15:55:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/aktuelt/LiberalAlliance.dk (from https://www.liberalalliance.dk/aktuelt/)
+15:55:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11181
+15:55:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11181 to https://www.liberalalliance.dk/donationer/
+15:55:39	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=62218EF3B700F387FDBAB32E8795BDBD
+15:55:39	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=62218EF3B700F387FDBAB32E8795BDBD and https://www.liberalalliance.dk/?wordfence_lh=1&hid=62218EF3B700F387FDBAB32E8795BDBD
+15:55:39	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=62218EF3B700F387FDBAB32E8795BDBD to https://www.liberalalliance.dk/?wordfence_lh=1&hid=62218EF3B700F387FDBAB32E8795BDBD
+15:55:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/donationer/LiberalAlliance.dk (from https://www.liberalalliance.dk/donationer/)
+15:55:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8926
+15:55:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8926 to https://www.liberalalliance.dk/nyhedsbrev/
+15:55:39	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=5E75828D2A850C8C6C9B79938917B6F6
+15:55:39	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=5E75828D2A850C8C6C9B79938917B6F6 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=5E75828D2A850C8C6C9B79938917B6F6
+15:55:39	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=5E75828D2A850C8C6C9B79938917B6F6 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=5E75828D2A850C8C6C9B79938917B6F6
+15:55:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/nyhedsbrev/LiberalAlliance.dk (from https://www.liberalalliance.dk/nyhedsbrev/)
+15:55:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8223
+15:55:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8223 to https://www.liberalalliance.dk/erhvervsklub/
+15:55:39	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=D0BB6C7887A4F259A476F98A85CE8266
+15:55:39	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=D0BB6C7887A4F259A476F98A85CE8266 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=D0BB6C7887A4F259A476F98A85CE8266
+15:55:39	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=D0BB6C7887A4F259A476F98A85CE8266 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=D0BB6C7887A4F259A476F98A85CE8266
+15:55:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/erhvervsklub/LiberalAlliance.dk (from https://www.liberalalliance.dk/erhvervsklub/)
+15:55:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11157
+15:55:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11157 to https://www.liberalalliance.dk/storkredse-oversigt/
+15:56:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/storkredse-oversigt/LiberalAlliance.dk (from https://www.liberalalliance.dk/storkredse-oversigt/)
+15:56:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6609
+15:56:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6609 to https://www.liberalalliance.dk/landsorganisation/
+15:56:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=B4F89E25CA1624A5A929AA7E0F2BE3CA
+15:56:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=B4F89E25CA1624A5A929AA7E0F2BE3CA and https://www.liberalalliance.dk/?wordfence_lh=1&hid=B4F89E25CA1624A5A929AA7E0F2BE3CA
+15:56:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=B4F89E25CA1624A5A929AA7E0F2BE3CA to https://www.liberalalliance.dk/?wordfence_lh=1&hid=B4F89E25CA1624A5A929AA7E0F2BE3CA
+15:56:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/landsorganisation/LiberalAlliance.dk (from https://www.liberalalliance.dk/landsorganisation/)
+15:56:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7599
+15:56:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7599 to https://www.liberalalliance.dk/hovedbestyrelse/
+15:56:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=2F04C6CB3F3980B0BA2389BBE3DD58FB
+15:56:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=2F04C6CB3F3980B0BA2389BBE3DD58FB and https://www.liberalalliance.dk/?wordfence_lh=1&hid=2F04C6CB3F3980B0BA2389BBE3DD58FB
+15:56:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=2F04C6CB3F3980B0BA2389BBE3DD58FB to https://www.liberalalliance.dk/?wordfence_lh=1&hid=2F04C6CB3F3980B0BA2389BBE3DD58FB
+15:56:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/hovedbestyrelse/LiberalAlliance.dk (from https://www.liberalalliance.dk/hovedbestyrelse/)
+15:56:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6615
+15:56:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6615 to https://www.liberalalliance.dk/udvalg/
+15:56:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=68E11B34F6A69518EFB67C5FFFF3D2A7
+15:56:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=68E11B34F6A69518EFB67C5FFFF3D2A7 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=68E11B34F6A69518EFB67C5FFFF3D2A7
+15:56:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=68E11B34F6A69518EFB67C5FFFF3D2A7 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=68E11B34F6A69518EFB67C5FFFF3D2A7
+15:56:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/udvalg/LiberalAlliance.dk (from https://www.liberalalliance.dk/udvalg/)
+15:56:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7837
+15:56:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7837 to https://www.liberalalliance.dk/forretningsudvalg/
+15:56:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3E9CC46770DAF4B07CFF72280FA6C86C
+15:56:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3E9CC46770DAF4B07CFF72280FA6C86C and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3E9CC46770DAF4B07CFF72280FA6C86C
+15:56:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3E9CC46770DAF4B07CFF72280FA6C86C to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3E9CC46770DAF4B07CFF72280FA6C86C
+15:57:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/forretningsudvalg/LiberalAlliance.dk (from https://www.liberalalliance.dk/forretningsudvalg/)
+15:57:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=12594
+15:57:03	Warning: 	File has moved from https://www.liberalalliance.dk/?p=12594 to https://www.liberalalliance.dk/landsmode2017/
+15:57:03	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=56935D39604F50C5A54AF61A075FB7FD
+15:57:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=56935D39604F50C5A54AF61A075FB7FD and https://www.liberalalliance.dk/?wordfence_lh=1&hid=56935D39604F50C5A54AF61A075FB7FD
+15:57:03	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=56935D39604F50C5A54AF61A075FB7FD to https://www.liberalalliance.dk/?wordfence_lh=1&hid=56935D39604F50C5A54AF61A075FB7FD
+15:57:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/landsmode2017/LiberalAlliance.dk (from https://www.liberalalliance.dk/landsmode2017/)
+15:57:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10682
+15:57:03	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10682 to https://www.liberalalliance.dk/lm16/
+15:57:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/lm16/LiberalAlliance.dk (from https://www.liberalalliance.dk/lm16/)
+15:57:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8118
+15:57:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8118 to https://www.liberalalliance.dk/lm15/
+15:57:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=6B7D6E94045423D9BFECEB4516B5F3F5
+15:57:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=6B7D6E94045423D9BFECEB4516B5F3F5 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=6B7D6E94045423D9BFECEB4516B5F3F5
+15:57:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=6B7D6E94045423D9BFECEB4516B5F3F5 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=6B7D6E94045423D9BFECEB4516B5F3F5
+15:57:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/lm15/LiberalAlliance.dk (from https://www.liberalalliance.dk/lm15/)
+15:57:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6402
+15:57:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6402 to https://www.liberalalliance.dk/vedtaegter/
+15:57:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=4E7B58E0D36D945B679C63F52FBAC549
+15:57:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=4E7B58E0D36D945B679C63F52FBAC549 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=4E7B58E0D36D945B679C63F52FBAC549
+15:57:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=4E7B58E0D36D945B679C63F52FBAC549 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=4E7B58E0D36D945B679C63F52FBAC549
+15:57:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/vedtaegter/LiberalAlliance.dk (from https://www.liberalalliance.dk/vedtaegter/)
+15:57:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6602
+15:57:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6602 to https://www.liberalalliance.dk/historie/
+15:57:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=51E9C21DFAA6BA2477FCC23B5EBF7701
+15:57:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=51E9C21DFAA6BA2477FCC23B5EBF7701 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=51E9C21DFAA6BA2477FCC23B5EBF7701
+15:57:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=51E9C21DFAA6BA2477FCC23B5EBF7701 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=51E9C21DFAA6BA2477FCC23B5EBF7701
+15:57:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/historie/LiberalAlliance.dk (from https://www.liberalalliance.dk/historie/)
+15:57:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6404
+15:57:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6404 to https://www.liberalalliance.dk/regnskaber/
+15:57:12	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/regnskaber/LiberalAlliance.dk (from https://www.liberalalliance.dk/regnskaber/)
+15:57:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11198
+15:57:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11198 to https://www.liberalalliance.dk/pressemeddelelser-fra-liberal-alliance/
+15:57:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3F95426EFF9F175F242246942AA7090B
+15:57:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3F95426EFF9F175F242246942AA7090B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3F95426EFF9F175F242246942AA7090B
+15:57:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3F95426EFF9F175F242246942AA7090B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3F95426EFF9F175F242246942AA7090B
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/pressemeddelelser-fra-liberal-alliance/LiberalAlliance.dk (from https://www.liberalalliance.dk/pressemeddelelser-fra-liberal-alliance/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6408
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6408 to https://www.liberalalliance.dk/pressekontakt/
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/pressekontakt/LiberalAlliance.dk (from https://www.liberalalliance.dk/pressekontakt/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11968
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11968 to https://www.liberalalliance.dk/pressebilleder/
+15:58:04	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=A256D325411897F9AEA27FEFD7B7BA84
+15:58:04	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=A256D325411897F9AEA27FEFD7B7BA84 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=A256D325411897F9AEA27FEFD7B7BA84
+15:58:04	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=A256D325411897F9AEA27FEFD7B7BA84 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=A256D325411897F9AEA27FEFD7B7BA84
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/pressebilleder/LiberalAlliance.dk (from https://www.liberalalliance.dk/pressebilleder/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6412
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6412 to https://www.liberalalliance.dk/kontaktoplysninger/
+15:58:04	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=679DD9EC21E3EDC22B4B0DEE82D85F5B
+15:58:04	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=679DD9EC21E3EDC22B4B0DEE82D85F5B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=679DD9EC21E3EDC22B4B0DEE82D85F5B
+15:58:04	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=679DD9EC21E3EDC22B4B0DEE82D85F5B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=679DD9EC21E3EDC22B4B0DEE82D85F5B
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/kontaktoplysninger/LiberalAlliance.dk (from https://www.liberalalliance.dk/kontaktoplysninger/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6368
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6368 to https://www.liberalalliance.dk/skolemateriale/
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/skolemateriale/LiberalAlliance.dk (from https://www.liberalalliance.dk/skolemateriale/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=13139
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=13139 to https://www.liberalalliance.dk/dukangodt/
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/dukangodt/LiberalAlliance.dk (from https://www.liberalalliance.dk/dukangodt/)
+15:58:04	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=9327
+15:58:04	Warning: 	File has moved from https://www.liberalalliance.dk/?p=9327 to https://www.liberalalliance.dk/cookies/
+15:58:04	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=05F6BC95E4AA44E758F06FCDDB659B71
+15:58:04	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=05F6BC95E4AA44E758F06FCDDB659B71 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=05F6BC95E4AA44E758F06FCDDB659B71
+15:58:04	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=05F6BC95E4AA44E758F06FCDDB659B71 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=05F6BC95E4AA44E758F06FCDDB659B71
+15:58:04	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/cookies/LiberalAlliance.dk (from https://www.liberalalliance.dk/cookies/)
+15:58:09	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/wp-content/themes/jupiter4.4.5/images/jplayer.blue.monday.jpg (from https://www.liberalalliance.dk/wp-content/themes/jupiter4.4.5/stylesheet/css/theme-styles.min-blessed1.css)
+15:58:09	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/wp-content/themes/jupiter4.4.5/images/flexslider-bg-gradient.png (from https://www.liberalalliance.dk/wp-content/themes/jupiter4.4.5/stylesheet/css/theme-styles.min-blessed1.css)
+15:58:09	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F4FB70356674165B5C9710DBF2723BC8
+15:58:09	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F4FB70356674165B5C9710DBF2723BC8 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DF4FB70356674165B5C9710DBF2723BC8
+15:58:09	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8480
+15:58:09	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8480 to https://www.liberalalliance.dk/2025video/
+15:58:09	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=7A59EFF26456C16F09557AF1C19DC747
+15:58:09	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=7A59EFF26456C16F09557AF1C19DC747 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=7A59EFF26456C16F09557AF1C19DC747
+15:58:09	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=7A59EFF26456C16F09557AF1C19DC747 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=7A59EFF26456C16F09557AF1C19DC747
+15:58:22	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?attachment_id=7265/feed/
+15:58:22	Warning: 	File has moved from https://www.liberalalliance.dk/?attachment_id=7265/feed/ to https://www.liberalalliance.dk/?attachment_id=7265
+15:58:22	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7265
+15:58:22	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7265 to https://www.liberalalliance.dk/?attachment_id=7265
+15:58:22	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=780E5CF9F86235A7CEDF97B1406AEE9B
+15:58:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=780E5CF9F86235A7CEDF97B1406AEE9B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=780E5CF9F86235A7CEDF97B1406AEE9B
+15:58:22	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=780E5CF9F86235A7CEDF97B1406AEE9B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=780E5CF9F86235A7CEDF97B1406AEE9B
+15:58:22	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7512
+15:58:22	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7512 to https://www.liberalalliance.dk/emne/84000/
+15:58:24	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/LiberalAlliance/videos/855198797852309/ (from https://www.liberalalliance.dk/emne/84000/)
+15:58:24	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/84000/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/84000/)
+15:58:25	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=D0470D3364C6B783655BF3622D1E00B3
+15:58:25	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=D0470D3364C6B783655BF3622D1E00B3 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=D0470D3364C6B783655BF3622D1E00B3
+15:58:25	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=D0470D3364C6B783655BF3622D1E00B3 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=D0470D3364C6B783655BF3622D1E00B3
+15:58:25	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/246/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/246/)
+15:58:29	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=0ED6E262750B3995EF25D84D408423DF
+15:58:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=0ED6E262750B3995EF25D84D408423DF and https://www.liberalalliance.dk/?wordfence_lh=1&hid=0ED6E262750B3995EF25D84D408423DF
+15:58:29	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=0ED6E262750B3995EF25D84D408423DF to https://www.liberalalliance.dk/?wordfence_lh=1&hid=0ED6E262750B3995EF25D84D408423DF
+15:58:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/forside/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/forside/)
+15:58:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7532
+15:58:29	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7532 to https://www.liberalalliance.dk/emne/selskabsskat/
+15:58:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/selskabsskat/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/selskabsskat/)
+15:58:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7528
+15:58:29	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7528 to https://www.liberalalliance.dk/emne/ivaerksaettere/
+15:58:29	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=631981040EA26662D4B11E3DD3CA07D8
+15:58:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=631981040EA26662D4B11E3DD3CA07D8 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=631981040EA26662D4B11E3DD3CA07D8
+15:58:29	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=631981040EA26662D4B11E3DD3CA07D8 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=631981040EA26662D4B11E3DD3CA07D8
+15:58:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/ivaerksaettere/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/ivaerksaettere/)
+15:58:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7494
+15:58:29	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7494 to https://www.liberalalliance.dk/emne/grundskyld/
+15:58:29	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=C5539D0FB8E3D0BF4CAA186811545378
+15:58:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=C5539D0FB8E3D0BF4CAA186811545378 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=C5539D0FB8E3D0BF4CAA186811545378
+15:58:29	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=C5539D0FB8E3D0BF4CAA186811545378 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=C5539D0FB8E3D0BF4CAA186811545378
+15:58:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/grundskyld/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/grundskyld/)
+15:58:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7490
+15:58:29	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7490 to https://www.liberalalliance.dk/emne/frifolkeskole/
+15:58:29	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=DC7F56C7F0F6334F8B9D7880FD75366E
+15:58:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=DC7F56C7F0F6334F8B9D7880FD75366E and https://www.liberalalliance.dk/?wordfence_lh=1&hid=DC7F56C7F0F6334F8B9D7880FD75366E
+15:58:29	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=DC7F56C7F0F6334F8B9D7880FD75366E to https://www.liberalalliance.dk/?wordfence_lh=1&hid=DC7F56C7F0F6334F8B9D7880FD75366E
+15:59:21	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/frifolkeskole/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/frifolkeskole/)
+15:59:21	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7487
+15:59:21	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7487 to https://www.liberalalliance.dk/emne/fjerntopskatten/
+15:59:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/fjerntopskatten/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/fjerntopskatten/)
+15:59:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7482
+15:59:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7482 to https://www.liberalalliance.dk/emne/storebaelt/
+15:59:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/storebaelt/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/storebaelt/)
+15:59:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6697
+15:59:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6697 to https://www.liberalalliance.dk/emne/fjern-registreringsafgiften/
+15:59:36	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/fjern-registreringsafgiften/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/fjern-registreringsafgiften/)
+15:59:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7536
+15:59:36	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7536 to https://www.liberalalliance.dk/emne/effektiviseringer/
+15:59:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/effektiviseringer/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/effektiviseringer/)
+15:59:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7539
+15:59:37	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7539 to https://www.liberalalliance.dk/emne/landbrugstyrket/
+15:59:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/landbrugstyrket/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/landbrugstyrket/)
+15:59:56	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=A01A4C5D34B9C0E607AB543217E26FA6
+15:59:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=A01A4C5D34B9C0E607AB543217E26FA6 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=A01A4C5D34B9C0E607AB543217E26FA6
+15:59:56	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=A01A4C5D34B9C0E607AB543217E26FA6 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=A01A4C5D34B9C0E607AB543217E26FA6
+15:59:56	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/politik/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/politik/)
+15:59:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7549
+15:59:56	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7549 to https://www.liberalalliance.dk/emne/studerende-2/
+15:59:56	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=F72DF30327803446C6277E3C4A4F12F6
+15:59:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=F72DF30327803446C6277E3C4A4F12F6 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=F72DF30327803446C6277E3C4A4F12F6
+15:59:56	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=F72DF30327803446C6277E3C4A4F12F6 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=F72DF30327803446C6277E3C4A4F12F6
+16:00:02	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/studerende-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/studerende-2/)
+16:00:02	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6691
+16:00:02	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6691 to https://www.liberalalliance.dk/emne/gennemregnet-af-finansministeriet/
+16:00:02	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3D32A034B1B02BC9AB7E22FEAC586B15
+16:00:02	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3D32A034B1B02BC9AB7E22FEAC586B15 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3D32A034B1B02BC9AB7E22FEAC586B15
+16:00:02	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3D32A034B1B02BC9AB7E22FEAC586B15 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3D32A034B1B02BC9AB7E22FEAC586B15
+16:00:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/gennemregnet-af-finansministeriet/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/gennemregnet-af-finansministeriet/)
+16:00:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=62896FF5ABE2E330A41B0F8AE28BE4E6
+16:00:03	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=62896FF5ABE2E330A41B0F8AE28BE4E6 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D62896FF5ABE2E330A41B0F8AE28BE4E6
+16:00:47	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=13333
+16:00:47	Warning: 	File has moved from https://www.liberalalliance.dk/?p=13333 to https://www.liberalalliance.dk/emne/forsvar/
+16:00:47	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/forsvar/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/forsvar/)
+16:00:47	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11618
+16:00:47	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11618 to https://www.liberalalliance.dk/emne/kulturpolitik/
+16:00:47	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/kulturpolitik/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/kulturpolitik/)
+16:00:47	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=9894
+16:00:47	Warning: 	File has moved from https://www.liberalalliance.dk/?p=9894 to https://www.liberalalliance.dk/emne/offentlighedsloven/
+16:00:47	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/offentlighedsloven/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/offentlighedsloven/)
+16:00:47	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8600
+16:00:47	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8600 to https://www.liberalalliance.dk/emne/udlaendingepolitik/
+16:00:47	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=21804586DC088A667F457E085F2DD368
+16:00:47	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=21804586DC088A667F457E085F2DD368 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=21804586DC088A667F457E085F2DD368
+16:00:47	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=21804586DC088A667F457E085F2DD368 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=21804586DC088A667F457E085F2DD368
+16:00:47	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/udlaendingepolitik/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/udlaendingepolitik/)
+16:00:47	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8163
+16:00:47	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8163 to https://www.liberalalliance.dk/emne/miljoe/
+16:00:47	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=7058695A3CE7E1C77D87395E867C9F5D
+16:00:47	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=7058695A3CE7E1C77D87395E867C9F5D and https://www.liberalalliance.dk/?wordfence_lh=1&hid=7058695A3CE7E1C77D87395E867C9F5D
+16:00:47	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=7058695A3CE7E1C77D87395E867C9F5D to https://www.liberalalliance.dk/?wordfence_lh=1&hid=7058695A3CE7E1C77D87395E867C9F5D
+16:00:55	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/miljoe/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/miljoe/)
+16:00:55	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=8159
+16:00:55	Warning: 	File has moved from https://www.liberalalliance.dk/?p=8159 to https://www.liberalalliance.dk/emne/eu-fred-og-frihandel/
+16:00:55	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=8602FB90CCEAA44FAAE75FD97F619657
+16:00:55	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=8602FB90CCEAA44FAAE75FD97F619657 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=8602FB90CCEAA44FAAE75FD97F619657
+16:00:55	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=8602FB90CCEAA44FAAE75FD97F619657 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=8602FB90CCEAA44FAAE75FD97F619657
+16:00:57	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/eu-fred-og-frihandel/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/eu-fred-og-frihandel/)
+16:00:57	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7565
+16:00:57	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7565 to https://www.liberalalliance.dk/emne/boligmarkedet-3/
+16:00:57	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/boligmarkedet-3/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/boligmarkedet-3/)
+16:00:57	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7562
+16:00:57	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7562 to https://www.liberalalliance.dk/emne/ligestilling-2/
+16:00:57	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=2CD10F4B7E909492BAED3CBD12D7AF9B
+16:00:57	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=2CD10F4B7E909492BAED3CBD12D7AF9B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=2CD10F4B7E909492BAED3CBD12D7AF9B
+16:00:57	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=2CD10F4B7E909492BAED3CBD12D7AF9B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=2CD10F4B7E909492BAED3CBD12D7AF9B
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/ligestilling-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/ligestilling-2/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7560
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7560 to https://www.liberalalliance.dk/emne/kirken/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/kirken/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/kirken/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7554
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7554 to https://www.liberalalliance.dk/emne/handicappolitik-2/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/handicappolitik-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/handicappolitik-2/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7557
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7557 to https://www.liberalalliance.dk/emne/udenrigspolitik-2/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/udenrigspolitik-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/udenrigspolitik-2/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7543
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7543 to https://www.liberalalliance.dk/emne/sundhed/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/sundhed/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/sundhed/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7551
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7551 to https://www.liberalalliance.dk/emne/nodhjaelpbedre/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/nodhjaelpbedre/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/nodhjaelpbedre/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7547
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7547 to https://www.liberalalliance.dk/emne/kontanthjaelp-3/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/kontanthjaelp-3/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/kontanthjaelp-3/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7545
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7545 to https://www.liberalalliance.dk/emne/selskabsskat-2/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/selskabsskat-2/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/selskabsskat-2/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=7525
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=7525 to https://www.liberalalliance.dk/emne/socialpolitikla/
+16:01:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/socialpolitikla/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/socialpolitikla/)
+16:01:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11241
+16:01:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11241 to https://www.liberalalliance.dk/afbureaukratisering/
+16:02:00	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/afbureaukratisering/LiberalAlliance.dk (from https://www.liberalalliance.dk/afbureaukratisering/)
+16:02:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=9901
+16:02:00	Warning: 	File has moved from https://www.liberalalliance.dk/?p=9901 to https://www.liberalalliance.dk/bogen/
+16:02:00	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3FBC69E86628CFE7F987FA69B1E19A32
+16:02:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3FBC69E86628CFE7F987FA69B1E19A32 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3FBC69E86628CFE7F987FA69B1E19A32
+16:02:00	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3FBC69E86628CFE7F987FA69B1E19A32 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3FBC69E86628CFE7F987FA69B1E19A32
+16:02:00	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/bogen/LiberalAlliance.dk (from https://www.liberalalliance.dk/bogen/)
+16:02:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=9928
+16:02:00	Warning: 	File has moved from https://www.liberalalliance.dk/?p=9928 to https://www.liberalalliance.dk/comeback/
+16:02:00	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=4FF7B2D0C27D607CD5606CC67FBA8383
+16:02:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=4FF7B2D0C27D607CD5606CC67FBA8383 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=4FF7B2D0C27D607CD5606CC67FBA8383
+16:02:00	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=4FF7B2D0C27D607CD5606CC67FBA8383 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=4FF7B2D0C27D607CD5606CC67FBA8383
+16:02:00	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/comeback/LiberalAlliance.dk (from https://www.liberalalliance.dk/comeback/)
+16:02:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=60E3AD58D92B54E306010A81245E4DE9
+16:02:00	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=60E3AD58D92B54E306010A81245E4DE9 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D60E3AD58D92B54E306010A81245E4DE9
+16:02:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6868
+16:02:00	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6868 to https://www.liberalalliance.dk/emne/anders-samuelsen/
+16:02:00	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/anders-samuelsen/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/anders-samuelsen/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10097
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10097 to https://www.liberalalliance.dk/emne/henrik-dahl/
+16:02:08	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=01A81FA6D8AF05B14D1B5DE9FF226400
+16:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=01A81FA6D8AF05B14D1B5DE9FF226400 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=01A81FA6D8AF05B14D1B5DE9FF226400
+16:02:08	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=01A81FA6D8AF05B14D1B5DE9FF226400 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=01A81FA6D8AF05B14D1B5DE9FF226400
+16:02:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/henrik-dahl/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/henrik-dahl/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6877
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6877 to https://www.liberalalliance.dk/emne/joachim-b-olsen/
+16:02:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/joachim-b-olsen/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/joachim-b-olsen/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10090
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10090 to https://www.liberalalliance.dk/emne/laura-lindahl/
+16:02:08	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=1710F9B6C8511012D8B3E63AD0F9633E
+16:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=1710F9B6C8511012D8B3E63AD0F9633E and https://www.liberalalliance.dk/?wordfence_lh=1&hid=1710F9B6C8511012D8B3E63AD0F9633E
+16:02:08	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=1710F9B6C8511012D8B3E63AD0F9633E to https://www.liberalalliance.dk/?wordfence_lh=1&hid=1710F9B6C8511012D8B3E63AD0F9633E
+16:02:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/laura-lindahl/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/laura-lindahl/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6882
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6882 to https://www.liberalalliance.dk/emne/leif-mikkelsen/
+16:02:08	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3C96B62218E5DF73C701C589EEBA8A7F
+16:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3C96B62218E5DF73C701C589EEBA8A7F and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3C96B62218E5DF73C701C589EEBA8A7F
+16:02:08	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3C96B62218E5DF73C701C589EEBA8A7F to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3C96B62218E5DF73C701C589EEBA8A7F
+16:02:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/leif-mikkelsen/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/leif-mikkelsen/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10093
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10093 to https://www.liberalalliance.dk/emne/may-britt-kattrup/
+16:02:08	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/may-britt-kattrup/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/may-britt-kattrup/)
+16:02:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6842
+16:02:08	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6842 to https://www.liberalalliance.dk/emne/merete-riisager/
+16:02:08	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=D971B7573F9DCE913CDF70F48AF7CBB1
+16:02:08	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=D971B7573F9DCE913CDF70F48AF7CBB1 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=D971B7573F9DCE913CDF70F48AF7CBB1
+16:02:08	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=D971B7573F9DCE913CDF70F48AF7CBB1 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=D971B7573F9DCE913CDF70F48AF7CBB1
+16:02:59	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/merete-riisager/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/merete-riisager/)
+16:02:59	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6886
+16:02:59	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6886 to https://www.liberalalliance.dk/emne/mette-bock/
+16:02:59	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=D74A7768CD15D5FF0092A0C1F3A0CBD0
+16:02:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=D74A7768CD15D5FF0092A0C1F3A0CBD0 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=D74A7768CD15D5FF0092A0C1F3A0CBD0
+16:02:59	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=D74A7768CD15D5FF0092A0C1F3A0CBD0 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=D74A7768CD15D5FF0092A0C1F3A0CBD0
+16:02:59	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/mette-bock/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/mette-bock/)
+16:02:59	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6888
+16:02:59	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6888 to https://www.liberalalliance.dk/emne/ole-birk-olesen/
+16:02:59	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=2698464BDEEA955D7F8E920032732FA3
+16:02:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=2698464BDEEA955D7F8E920032732FA3 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=2698464BDEEA955D7F8E920032732FA3
+16:02:59	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=2698464BDEEA955D7F8E920032732FA3 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=2698464BDEEA955D7F8E920032732FA3
+16:02:59	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/ole-birk-olesen/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/ole-birk-olesen/)
+16:02:59	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6875
+16:02:59	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6875 to https://www.liberalalliance.dk/emne/simon-emil-ammitzboll-bille/
+16:02:59	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/simon-emil-ammitzboll-bille/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/simon-emil-ammitzboll-bille/)
+16:02:59	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=6884
+16:02:59	Warning: 	File has moved from https://www.liberalalliance.dk/?p=6884 to https://www.liberalalliance.dk/emne/villum-christensen/
+16:02:59	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=AE383462C468F7C4CE74CBE058DEBA9B
+16:02:59	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=AE383462C468F7C4CE74CBE058DEBA9B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=AE383462C468F7C4CE74CBE058DEBA9B
+16:02:59	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=AE383462C468F7C4CE74CBE058DEBA9B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=AE383462C468F7C4CE74CBE058DEBA9B
+16:03:00	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/villum-christensen/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/villum-christensen/)
+16:03:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=15D27BDB4FB80162493D2292B978D21A
+16:03:00	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=15D27BDB4FB80162493D2292B978D21A to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D15D27BDB4FB80162493D2292B978D21A
+16:03:51	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=865CAE117974AAFAD95FE1125B4C018F
+16:03:51	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=865CAE117974AAFAD95FE1125B4C018F to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D865CAE117974AAFAD95FE1125B4C018F
+16:03:51	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=23BF469ED6F5E4F93814D5A61428463D
+16:03:51	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=23BF469ED6F5E4F93814D5A61428463D to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D23BF469ED6F5E4F93814D5A61428463D
+16:03:52	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=62218EF3B700F387FDBAB32E8795BDBD
+16:03:52	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=62218EF3B700F387FDBAB32E8795BDBD to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D62218EF3B700F387FDBAB32E8795BDBD
+16:03:54	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=5E75828D2A850C8C6C9B79938917B6F6
+16:03:54	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=5E75828D2A850C8C6C9B79938917B6F6 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D5E75828D2A850C8C6C9B79938917B6F6
+16:04:46	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D0BB6C7887A4F259A476F98A85CE8266
+16:04:46	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D0BB6C7887A4F259A476F98A85CE8266 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DD0BB6C7887A4F259A476F98A85CE8266
+16:04:46	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11171
+16:04:46	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11171 to https://www.liberalalliance.dk/fyns-storkreds/
+16:04:46	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=0181CD924D1F17C6DDD3160BF0EF5521
+16:04:46	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=0181CD924D1F17C6DDD3160BF0EF5521 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=0181CD924D1F17C6DDD3160BF0EF5521
+16:04:46	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=0181CD924D1F17C6DDD3160BF0EF5521 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=0181CD924D1F17C6DDD3160BF0EF5521
+16:04:46	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/fyns-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/fyns-storkreds/)
+16:04:46	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11115
+16:04:46	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11115 to https://www.liberalalliance.dk/koebenhavns-omegns-storkreds/
+16:04:46	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=280768F8F41F7E1E48DB631866892EA5
+16:04:46	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=280768F8F41F7E1E48DB631866892EA5 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=280768F8F41F7E1E48DB631866892EA5
+16:04:46	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=280768F8F41F7E1E48DB631866892EA5 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=280768F8F41F7E1E48DB631866892EA5
+16:04:48	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/koebenhavns-omegns-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/koebenhavns-omegns-storkreds/)
+16:04:48	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11121
+16:04:48	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11121 to https://www.liberalalliance.dk/koebenhavns-storkreds/
+16:04:48	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=99EADC281210FA1B934F0E0377E4E527
+16:04:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=99EADC281210FA1B934F0E0377E4E527 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=99EADC281210FA1B934F0E0377E4E527
+16:04:48	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=99EADC281210FA1B934F0E0377E4E527 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=99EADC281210FA1B934F0E0377E4E527
+16:05:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/emne/simon-emil-ammitzboll/
+16:05:37	Warning: 	File has moved from https://www.liberalalliance.dk/emne/simon-emil-ammitzboll/ to https://www.liberalalliance.dk/emne/simon-emil-ammitzboll-bille/
+16:05:37	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/koebenhavns-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/koebenhavns-storkreds/)
+16:05:37	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11125
+16:05:37	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11125 to https://www.liberalalliance.dk/nordjyllands-storkreds/
+16:05:37	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=923BA12EA6E8CC81F08E80CFDACAEDF1
+16:05:37	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=923BA12EA6E8CC81F08E80CFDACAEDF1 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=923BA12EA6E8CC81F08E80CFDACAEDF1
+16:05:37	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=923BA12EA6E8CC81F08E80CFDACAEDF1 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=923BA12EA6E8CC81F08E80CFDACAEDF1
+16:05:38	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/nordjyllands-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/nordjyllands-storkreds/)
+16:05:38	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11089
+16:05:38	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11089 to https://www.liberalalliance.dk/nordsjaelland-storkreds/
+16:05:38	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/nordsjaelland-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/nordsjaelland-storkreds/)
+16:05:38	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11129
+16:05:38	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11129 to https://www.liberalalliance.dk/sjaellands-storkreds/
+16:05:38	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=43A9BF01ADAAC07BF1F110F2CD68F5EE
+16:05:38	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=43A9BF01ADAAC07BF1F110F2CD68F5EE and https://www.liberalalliance.dk/?wordfence_lh=1&hid=43A9BF01ADAAC07BF1F110F2CD68F5EE
+16:05:38	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=43A9BF01ADAAC07BF1F110F2CD68F5EE to https://www.liberalalliance.dk/?wordfence_lh=1&hid=43A9BF01ADAAC07BF1F110F2CD68F5EE
+16:05:39	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/sjaellands-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/sjaellands-storkreds/)
+16:05:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11135
+16:05:39	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11135 to https://www.liberalalliance.dk/sydjyllands-storkreds/
+16:05:39	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07
+16:05:39	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07
+16:05:39	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07
+16:05:40	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/sydjyllands-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/sydjyllands-storkreds/)
+16:05:40	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11141
+16:05:40	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11141 to https://www.liberalalliance.dk/vestjyllands-storkreds/
+16:05:40	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/vestjyllands-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/vestjyllands-storkreds/)
+16:05:40	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11145
+16:05:40	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11145 to https://www.liberalalliance.dk/oestjyllands-storkreds/
+16:05:40	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=278356F6543C9153C66EFAE12D9CB605
+16:05:40	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=278356F6543C9153C66EFAE12D9CB605 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=278356F6543C9153C66EFAE12D9CB605
+16:05:40	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=278356F6543C9153C66EFAE12D9CB605 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=278356F6543C9153C66EFAE12D9CB605
+16:06:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/oestjyllands-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/oestjyllands-storkreds/)
+16:06:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11111
+16:06:29	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11111 to https://www.liberalalliance.dk/bornholm-storkreds/
+16:06:29	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/bornholm-storkreds/LiberalAlliance.dk (from https://www.liberalalliance.dk/bornholm-storkreds/)
+16:06:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=B4F89E25CA1624A5A929AA7E0F2BE3CA
+16:06:29	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=B4F89E25CA1624A5A929AA7E0F2BE3CA to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DB4F89E25CA1624A5A929AA7E0F2BE3CA
+16:06:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2F04C6CB3F3980B0BA2389BBE3DD58FB
+16:06:29	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2F04C6CB3F3980B0BA2389BBE3DD58FB to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D2F04C6CB3F3980B0BA2389BBE3DD58FB
+16:06:31	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=68E11B34F6A69518EFB67C5FFFF3D2A7
+16:06:31	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=68E11B34F6A69518EFB67C5FFFF3D2A7 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D68E11B34F6A69518EFB67C5FFFF3D2A7
+16:06:31	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3E9CC46770DAF4B07CFF72280FA6C86C
+16:06:31	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3E9CC46770DAF4B07CFF72280FA6C86C to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3E9CC46770DAF4B07CFF72280FA6C86C
+16:07:23	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=56935D39604F50C5A54AF61A075FB7FD
+16:07:23	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=56935D39604F50C5A54AF61A075FB7FD to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D56935D39604F50C5A54AF61A075FB7FD
+16:07:23	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=6B7D6E94045423D9BFECEB4516B5F3F5
+16:07:23	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=6B7D6E94045423D9BFECEB4516B5F3F5 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D6B7D6E94045423D9BFECEB4516B5F3F5
+16:07:25	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=4E7B58E0D36D945B679C63F52FBAC549
+16:07:25	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=4E7B58E0D36D945B679C63F52FBAC549 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D4E7B58E0D36D945B679C63F52FBAC549
+16:07:25	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=51E9C21DFAA6BA2477FCC23B5EBF7701
+16:07:25	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=51E9C21DFAA6BA2477FCC23B5EBF7701 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D51E9C21DFAA6BA2477FCC23B5EBF7701
+16:08:17	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3F95426EFF9F175F242246942AA7090B
+16:08:17	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3F95426EFF9F175F242246942AA7090B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3F95426EFF9F175F242246942AA7090B
+16:08:17	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A256D325411897F9AEA27FEFD7B7BA84
+16:08:17	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A256D325411897F9AEA27FEFD7B7BA84 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DA256D325411897F9AEA27FEFD7B7BA84
+16:08:19	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=679DD9EC21E3EDC22B4B0DEE82D85F5B
+16:08:19	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=679DD9EC21E3EDC22B4B0DEE82D85F5B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D679DD9EC21E3EDC22B4B0DEE82D85F5B
+16:08:29	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=05F6BC95E4AA44E758F06FCDDB659B71
+16:08:29	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=05F6BC95E4AA44E758F06FCDDB659B71 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D05F6BC95E4AA44E758F06FCDDB659B71
+16:09:14	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7A59EFF26456C16F09557AF1C19DC747
+16:09:14	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7A59EFF26456C16F09557AF1C19DC747 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D7A59EFF26456C16F09557AF1C19DC747
+16:09:14	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=5491
+16:09:14	Warning: 	File has moved from https://www.liberalalliance.dk/?p=5491 to https://www.liberalalliance.dk/forside/
+16:09:24	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/forside/LiberalAlliance.dk (from https://www.liberalalliance.dk/forside/)
+16:09:26	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=780E5CF9F86235A7CEDF97B1406AEE9B
+16:09:26	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=780E5CF9F86235A7CEDF97B1406AEE9B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D780E5CF9F86235A7CEDF97B1406AEE9B
+16:09:26	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/84000/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/da_DK/sdk.js)
+16:09:26	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/84000/^([^:/? (from connect.facebook.net/da_DK/sdk.js)
+16:09:26	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/restserver.php (from connect.facebook.net/da_DK/sdk.js)
+16:09:26	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/84000/dialog/ (from connect.facebook.net/da_DK/sdk.js)
+16:09:26	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=EAEC0A412BF12A30C5891A4181BECB19
+16:09:26	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=EAEC0A412BF12A30C5891A4181BECB19 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=EAEC0A412BF12A30C5891A4181BECB19
+16:09:26	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=EAEC0A412BF12A30C5891A4181BECB19 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=EAEC0A412BF12A30C5891A4181BECB19
+16:09:27	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/246/page/2/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/246/page/2/)
+16:09:27	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D0470D3364C6B783655BF3622D1E00B3
+16:09:27	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D0470D3364C6B783655BF3622D1E00B3 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DD0470D3364C6B783655BF3622D1E00B3
+16:09:29	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=E61EB71601401EF7EFB65C1DF7300E24
+16:09:29	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=E61EB71601401EF7EFB65C1DF7300E24 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=E61EB71601401EF7EFB65C1DF7300E24
+16:09:29	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=E61EB71601401EF7EFB65C1DF7300E24 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=E61EB71601401EF7EFB65C1DF7300E24
+16:10:17	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/forside/page/2/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/forside/page/2/)
+16:10:17	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=0ED6E262750B3995EF25D84D408423DF
+16:10:17	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=0ED6E262750B3995EF25D84D408423DF to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D0ED6E262750B3995EF25D84D408423DF
+16:10:20	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=631981040EA26662D4B11E3DD3CA07D8
+16:10:20	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=631981040EA26662D4B11E3DD3CA07D8 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D631981040EA26662D4B11E3DD3CA07D8
+16:10:20	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=C5539D0FB8E3D0BF4CAA186811545378
+16:10:20	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=C5539D0FB8E3D0BF4CAA186811545378 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DC5539D0FB8E3D0BF4CAA186811545378
+16:10:20	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=DC7F56C7F0F6334F8B9D7880FD75366E
+16:10:20	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=DC7F56C7F0F6334F8B9D7880FD75366E to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DDC7F56C7F0F6334F8B9D7880FD75366E
+16:11:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11627
+16:11:12	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11627 to https://www.liberalalliance.dk/topskatten/
+16:11:12	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=3C35A3B934552767902687648657BE22
+16:11:12	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=3C35A3B934552767902687648657BE22 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=3C35A3B934552767902687648657BE22
+16:11:12	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=3C35A3B934552767902687648657BE22 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=3C35A3B934552767902687648657BE22
+16:11:14	Error: 	"Not Found" (404) at link www.liberalalliance.dk/topskatten/LiberalAlliance.dk (from www.liberalalliance.dk/topskatten/)
+16:11:14	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=CA6966D744163C10237446633B9163B3
+16:11:14	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=CA6966D744163C10237446633B9163B3 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=CA6966D744163C10237446633B9163B3
+16:11:14	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=CA6966D744163C10237446633B9163B3 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=CA6966D744163C10237446633B9163B3
+16:11:14	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/politik/page/2/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/politik/page/2/)
+16:11:14	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A01A4C5D34B9C0E607AB543217E26FA6
+16:11:14	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A01A4C5D34B9C0E607AB543217E26FA6 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DA01A4C5D34B9C0E607AB543217E26FA6
+16:11:14	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F72DF30327803446C6277E3C4A4F12F6
+16:11:14	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F72DF30327803446C6277E3C4A4F12F6 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DF72DF30327803446C6277E3C4A4F12F6
+16:12:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3D32A034B1B02BC9AB7E22FEAC586B15
+16:12:03	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3D32A034B1B02BC9AB7E22FEAC586B15 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3D32A034B1B02BC9AB7E22FEAC586B15
+16:12:06	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=21804586DC088A667F457E085F2DD368
+16:12:06	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=21804586DC088A667F457E085F2DD368 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D21804586DC088A667F457E085F2DD368
+16:12:08	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7058695A3CE7E1C77D87395E867C9F5D
+16:12:08	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7058695A3CE7E1C77D87395E867C9F5D to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D7058695A3CE7E1C77D87395E867C9F5D
+16:12:09	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=8602FB90CCEAA44FAAE75FD97F619657
+16:12:09	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=8602FB90CCEAA44FAAE75FD97F619657 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D8602FB90CCEAA44FAAE75FD97F619657
+16:12:58	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2CD10F4B7E909492BAED3CBD12D7AF9B
+16:12:58	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2CD10F4B7E909492BAED3CBD12D7AF9B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D2CD10F4B7E909492BAED3CBD12D7AF9B
+16:13:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11259
+16:13:00	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11259 to https://www.liberalalliance.dk/emne/offentligt-forbrug/
+16:13:00	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=7A03B54EC8FEE112D8438CEB3D7CF705
+16:13:00	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=7A03B54EC8FEE112D8438CEB3D7CF705 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=7A03B54EC8FEE112D8438CEB3D7CF705
+16:13:00	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=7A03B54EC8FEE112D8438CEB3D7CF705 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=7A03B54EC8FEE112D8438CEB3D7CF705
+16:13:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/offentligt-forbrug/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/offentligt-forbrug/)
+16:13:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11276
+16:13:03	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11276 to https://www.liberalalliance.dk/emne/bureaukrati/
+16:13:03	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=66506303399C621F1F8E8EB113BCCB78
+16:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=66506303399C621F1F8E8EB113BCCB78 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=66506303399C621F1F8E8EB113BCCB78
+16:13:03	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=66506303399C621F1F8E8EB113BCCB78 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=66506303399C621F1F8E8EB113BCCB78
+16:13:03	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/bureaukrati/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/bureaukrati/)
+16:13:03	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11284
+16:13:03	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11284 to https://www.liberalalliance.dk/emne/bureaukrati-historisk/
+16:13:03	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=CBB713B672E1EEFDCE253C3D63224506
+16:13:03	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=CBB713B672E1EEFDCE253C3D63224506 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=CBB713B672E1EEFDCE253C3D63224506
+16:13:03	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=CBB713B672E1EEFDCE253C3D63224506 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=CBB713B672E1EEFDCE253C3D63224506
+16:13:52	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/bureaukrati-historisk/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/bureaukrati-historisk/)
+16:13:52	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11296
+16:13:52	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11296 to https://www.liberalalliance.dk/emne/konsekvenser-staten/
+16:13:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.liberalalliance.dk/wp-content/uploads/2016/08/djøf_aarsvaerk_staten-1.png (from https://www.liberalalliance.dk/emne/konsekvenser-staten/)
+16:13:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.liberalalliance.dk/emne/konsekvenser-staten/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/konsekvenser-staten/)
+16:13:54	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11300
+16:13:54	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11300 to https://www.liberalalliance.dk/emne/konsekvenser-regioner/
+16:13:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.liberalalliance.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.liberalalliance.dk%2Femne%2Fkonsekvenser-regioner%2F (from https://www.liberalalliance.dk/emne/konsekvenser-regioner/)
+16:13:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847 (from https://www.liberalalliance.dk/emne/konsekvenser-regioner/)
+16:13:56	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/konsekvenser-regioner/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/konsekvenser-regioner/)
+16:13:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=11306
+16:13:56	Warning: 	File has moved from https://www.liberalalliance.dk/?p=11306 to https://www.liberalalliance.dk/emne/konsekvenser-kommune/
+16:13:56	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=A165168EC038C41EF2E9E8E6C8C451C0
+16:13:56	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=A165168EC038C41EF2E9E8E6C8C451C0 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=A165168EC038C41EF2E9E8E6C8C451C0
+16:13:56	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=A165168EC038C41EF2E9E8E6C8C451C0 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=A165168EC038C41EF2E9E8E6C8C451C0
+16:13:56	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/konsekvenser-kommune/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/konsekvenser-kommune/)
+16:13:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3FBC69E86628CFE7F987FA69B1E19A32
+16:13:56	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3FBC69E86628CFE7F987FA69B1E19A32 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3FBC69E86628CFE7F987FA69B1E19A32
+16:13:56	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=4FF7B2D0C27D607CD5606CC67FBA8383
+16:13:56	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=4FF7B2D0C27D607CD5606CC67FBA8383 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D4FF7B2D0C27D607CD5606CC67FBA8383
+16:14:48	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10101
+16:14:48	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10101 to https://www.liberalalliance.dk/emne/carsten-bach/
+16:14:48	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=DBD47DF7A43EE0FBD8558F460AC19F9B
+16:14:48	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=DBD47DF7A43EE0FBD8558F460AC19F9B and https://www.liberalalliance.dk/?wordfence_lh=1&hid=DBD47DF7A43EE0FBD8558F460AC19F9B
+16:14:48	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=DBD47DF7A43EE0FBD8558F460AC19F9B to https://www.liberalalliance.dk/?wordfence_lh=1&hid=DBD47DF7A43EE0FBD8558F460AC19F9B
+16:14:50	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/carsten-bach/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/carsten-bach/)
+16:14:50	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10105
+16:14:50	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10105 to https://www.liberalalliance.dk/emne/christina-egelund/
+16:14:50	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/christina-egelund/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/christina-egelund/)
+16:14:50	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=01A81FA6D8AF05B14D1B5DE9FF226400
+16:14:50	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=01A81FA6D8AF05B14D1B5DE9FF226400 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D01A81FA6D8AF05B14D1B5DE9FF226400
+16:14:50	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=1710F9B6C8511012D8B3E63AD0F9633E
+16:14:50	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=1710F9B6C8511012D8B3E63AD0F9633E to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D1710F9B6C8511012D8B3E63AD0F9633E
+16:15:00	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3C96B62218E5DF73C701C589EEBA8A7F
+16:15:00	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3C96B62218E5DF73C701C589EEBA8A7F to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3C96B62218E5DF73C701C589EEBA8A7F
+16:15:40	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D971B7573F9DCE913CDF70F48AF7CBB1
+16:15:40	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D971B7573F9DCE913CDF70F48AF7CBB1 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DD971B7573F9DCE913CDF70F48AF7CBB1
+16:15:44	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D74A7768CD15D5FF0092A0C1F3A0CBD0
+16:15:44	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=D74A7768CD15D5FF0092A0C1F3A0CBD0 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DD74A7768CD15D5FF0092A0C1F3A0CBD0
+16:15:45	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2698464BDEEA955D7F8E920032732FA3
+16:15:45	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=2698464BDEEA955D7F8E920032732FA3 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D2698464BDEEA955D7F8E920032732FA3
+16:15:54	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=AE383462C468F7C4CE74CBE058DEBA9B
+16:15:54	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=AE383462C468F7C4CE74CBE058DEBA9B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DAE383462C468F7C4CE74CBE058DEBA9B
+16:16:34	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=0181CD924D1F17C6DDD3160BF0EF5521
+16:16:34	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=0181CD924D1F17C6DDD3160BF0EF5521 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D0181CD924D1F17C6DDD3160BF0EF5521
+16:16:38	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=280768F8F41F7E1E48DB631866892EA5
+16:16:38	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=280768F8F41F7E1E48DB631866892EA5 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D280768F8F41F7E1E48DB631866892EA5
+16:16:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=99EADC281210FA1B934F0E0377E4E527
+16:16:39	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=99EADC281210FA1B934F0E0377E4E527 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D99EADC281210FA1B934F0E0377E4E527
+16:16:48	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=923BA12EA6E8CC81F08E80CFDACAEDF1
+16:16:48	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=923BA12EA6E8CC81F08E80CFDACAEDF1 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D923BA12EA6E8CC81F08E80CFDACAEDF1
+16:17:28	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=43A9BF01ADAAC07BF1F110F2CD68F5EE
+16:17:28	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=43A9BF01ADAAC07BF1F110F2CD68F5EE to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D43A9BF01ADAAC07BF1F110F2CD68F5EE
+16:17:33	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07
+16:17:33	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3632E5D2ED19FB6D9E2A0A7CAD45BF07 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3632E5D2ED19FB6D9E2A0A7CAD45BF07
+16:17:33	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=278356F6543C9153C66EFAE12D9CB605
+16:17:33	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=278356F6543C9153C66EFAE12D9CB605 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D278356F6543C9153C66EFAE12D9CB605
+16:17:42	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/forside/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+16:17:42	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/forside/^([^:/? (from connect.facebook.net/en_US/sdk.js)
+16:17:42	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/forside/dialog/ (from connect.facebook.net/en_US/sdk.js)
+16:17:45	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=F5307CF063CE00A8359772F668D07DAE
+16:17:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=F5307CF063CE00A8359772F668D07DAE and https://www.liberalalliance.dk/?wordfence_lh=1&hid=F5307CF063CE00A8359772F668D07DAE
+16:17:45	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=F5307CF063CE00A8359772F668D07DAE to https://www.liberalalliance.dk/?wordfence_lh=1&hid=F5307CF063CE00A8359772F668D07DAE
+16:17:45	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/mf/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/mf/)
+16:17:45	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?p=10242
+16:17:45	Warning: 	File has moved from https://www.liberalalliance.dk/?p=10242 to https://www.liberalalliance.dk/ugens-ivaerksaetter/
+16:17:45	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=24C9301A98A48B65B1E969665ECCBBC2
+16:17:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=24C9301A98A48B65B1E969665ECCBBC2 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=24C9301A98A48B65B1E969665ECCBBC2
+16:17:45	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=24C9301A98A48B65B1E969665ECCBBC2 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=24C9301A98A48B65B1E969665ECCBBC2
+16:17:45	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/ugens-ivaerksaetter/LiberalAlliance.dk (from https://www.liberalalliance.dk/ugens-ivaerksaetter/)
+16:17:45	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=EAEC0A412BF12A30C5891A4181BECB19
+16:17:45	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=EAEC0A412BF12A30C5891A4181BECB19 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DEAEC0A412BF12A30C5891A4181BECB19
+16:17:45	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=E61EB71601401EF7EFB65C1DF7300E24
+16:17:45	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=E61EB71601401EF7EFB65C1DF7300E24 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DE61EB71601401EF7EFB65C1DF7300E24
+16:18:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3C35A3B934552767902687648657BE22
+16:18:36	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=3C35A3B934552767902687648657BE22 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D3C35A3B934552767902687648657BE22
+16:18:36	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=CA6966D744163C10237446633B9163B3
+16:18:36	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=CA6966D744163C10237446633B9163B3 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DCA6966D744163C10237446633B9163B3
+16:18:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7A03B54EC8FEE112D8438CEB3D7CF705
+16:18:39	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=7A03B54EC8FEE112D8438CEB3D7CF705 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D7A03B54EC8FEE112D8438CEB3D7CF705
+16:18:39	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=66506303399C621F1F8E8EB113BCCB78
+16:18:39	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=66506303399C621F1F8E8EB113BCCB78 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D66506303399C621F1F8E8EB113BCCB78
+16:19:30	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=CBB713B672E1EEFDCE253C3D63224506
+16:19:30	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=CBB713B672E1EEFDCE253C3D63224506 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DCBB713B672E1EEFDCE253C3D63224506
+16:19:30	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/emne/konsekvenser-staten/LiberalAlliance.dk (from https://www.liberalalliance.dk/emne/konsekvenser-staten/)
+16:19:30	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847
+16:19:30	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847
+16:19:30	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=537B81143EF489D00CEB00D9D26FA847
+16:19:33	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A165168EC038C41EF2E9E8E6C8C451C0
+16:19:33	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=A165168EC038C41EF2E9E8E6C8C451C0 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DA165168EC038C41EF2E9E8E6C8C451C0
+16:19:34	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=DBD47DF7A43EE0FBD8558F460AC19F9B
+16:19:34	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=DBD47DF7A43EE0FBD8558F460AC19F9B to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DDBD47DF7A43EE0FBD8558F460AC19F9B
+16:20:19	Warning: 	Moved Permanently for www.liberalalliance.dk/?wordfence_lh=1&hid=5698626023BAAE4548A6DA8D95D01A97
+16:20:19	Warning: 	Redirected link is identical because of 'URL Hack' option: www.liberalalliance.dk/?wordfence_lh=1&hid=5698626023BAAE4548A6DA8D95D01A97 and https://www.liberalalliance.dk/?wordfence_lh=1&hid=5698626023BAAE4548A6DA8D95D01A97
+16:20:19	Warning: 	File has moved from www.liberalalliance.dk/?wordfence_lh=1&hid=5698626023BAAE4548A6DA8D95D01A97 to https://www.liberalalliance.dk/?wordfence_lh=1&hid=5698626023BAAE4548A6DA8D95D01A97
+16:20:19	Error: 	"Not Found" (404) at link https://www.liberalalliance.dk/portfolio_category/mf/page/2/LiberalAlliance.dk (from https://www.liberalalliance.dk/portfolio_category/mf/page/2/)
+16:20:19	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F5307CF063CE00A8359772F668D07DAE
+16:20:19	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=F5307CF063CE00A8359772F668D07DAE to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3DF5307CF063CE00A8359772F668D07DAE
+16:20:19	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=24C9301A98A48B65B1E969665ECCBBC2
+16:20:19	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=24C9301A98A48B65B1E969665ECCBBC2 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D24C9301A98A48B65B1E969665ECCBBC2
+16:20:19	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=537B81143EF489D00CEB00D9D26FA847
+16:20:19	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=537B81143EF489D00CEB00D9D26FA847 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D537B81143EF489D00CEB00D9D26FA847
+16:21:12	Warning: 	Moved Permanently for https://www.liberalalliance.dk/?wordfence_lh=1%26hid=5698626023BAAE4548A6DA8D95D01A97
+16:21:12	Warning: 	File has moved from https://www.liberalalliance.dk/?wordfence_lh=1%26hid=5698626023BAAE4548A6DA8D95D01A97 to https://www.liberalalliance.dk/?wordfence_lh=1%26hid%3D5698626023BAAE4548A6DA8D95D01A97
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 minutes 49 seconds : 1811 links scanned, 1456 files written (166132223 bytes overall) [176102469 bytes received at 81946 bytes/sec], 605120 bytes transferred using HTTP compression in 5 files, ratio 31%, 8.9 requests per connection
+(118 errors, 534 warnings, 0 messages)
